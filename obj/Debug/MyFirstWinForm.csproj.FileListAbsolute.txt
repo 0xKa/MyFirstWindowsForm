@@ -1,0 +1,15 @@
+F:\ProgrammingAdvices\Course 14 - C# lvl1\MyFirstWinForm\bin\Debug\MyFirstWinForm.exe.config
+F:\ProgrammingAdvices\Course 14 - C# lvl1\MyFirstWinForm\bin\Debug\MyFirstWinForm.exe
+F:\ProgrammingAdvices\Course 14 - C# lvl1\MyFirstWinForm\bin\Debug\MyFirstWinForm.pdb
+F:\ProgrammingAdvices\Course 14 - C# lvl1\MyFirstWinForm\obj\Debug\MyFirstWinForm.csproj.AssemblyReference.cache
+F:\ProgrammingAdvices\Course 14 - C# lvl1\MyFirstWinForm\obj\Debug\MyFirstWinForm.Properties.Resources.resources
+F:\ProgrammingAdvices\Course 14 - C# lvl1\MyFirstWinForm\obj\Debug\MyFirstWinForm.csproj.GenerateResource.cache
+F:\ProgrammingAdvices\Course 14 - C# lvl1\MyFirstWinForm\obj\Debug\MyFirstWinForm.csproj.CoreCompileInputs.cache
+F:\ProgrammingAdvices\Course 14 - C# lvl1\MyFirstWinForm\obj\Debug\MyFirstWinForm.exe
+F:\ProgrammingAdvices\Course 14 - C# lvl1\MyFirstWinForm\obj\Debug\MyFirstWinForm.pdb
+F:\ProgrammingAdvices\Course 14 - C# lvl1\MyFirstWinForm\obj\Debug\MyFirstWinForm.frmLogin.resources
+F:\ProgrammingAdvices\Course 14 - C# lvl1\MyFirstWinForm\obj\Debug\MyFirstWinForm.frmMain.resources
+F:\ProgrammingAdvices\Course 14 - C# lvl1\MyFirstWinForm\obj\Debug\MyFirstWinForm.frmFeedback.resources
+F:\ProgrammingAdvices\Course 14 - C# lvl1\MyFirstWinForm\obj\Debug\MyFirstWinForm.frmSandbox.resources
+F:\ProgrammingAdvices\Course 14 - C# lvl1\MyFirstWinForm\obj\Debug\MyFirstWinForm.frmSandbox2.resources
+F:\ProgrammingAdvices\Course 14 - C# lvl1\MyFirstWinForm\obj\Debug\MyFirstWinForm.frmSandbox3.resources
